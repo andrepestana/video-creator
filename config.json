@@ -1,0 +1,28 @@
+{
+    "sourceImagesPath" : "/home/andre/ffmpeg/param_test/",
+    "sourceImagesExtension" : ".jpeg",
+    "sourceAudiosPath" : "/home/andre/ffmpeg/param_test/",
+    "sourceAudiosExtension" : ".mp3",
+    "subscribeButton" : "/home/andre/ffmpeg/subscribe2.png",
+    "slideDisplayTimeInSec" : 15,
+    "fadeEffectTimeInSec" : 2,
+    "outputBaseFileName" : "/home/andre/ffmpeg/tmp/",
+    "outputFileName" : "outputMovie",
+    "outputVideoExtension" : ".mp4",
+    "fadeInAtVideoStartDuration" : 2,
+    "fadeOutAtVideoEndDuration" : 2,
+    "selectRandomImages": true,
+    "drawTexts": [
+        {
+            "titleVideoText" : "Testing...",
+            "drawTextFontFile" : "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf",
+            "drawTextFontColor" : "0xFFFFE0@0.6",
+            "drawTextShadowColor" : "black@0.6",
+            "drawTextShadowX" : 2,
+            "drawTextShadowY" : 2,
+            "drawTextFontSize" : 40,
+            "drawTextX" : "w-text_w-50",
+            "drawTextY" : "h-text_h-50"
+        }
+    ]
+}

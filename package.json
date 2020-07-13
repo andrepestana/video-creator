@@ -1,0 +1,11 @@
+{
+  "name": "video-creator",
+  "version": "1.0.0",
+  "description": "A script to create a video given a folder with images and audio files.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Andre Pestana",
+  "license": "ISC"
+}
