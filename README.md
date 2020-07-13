@@ -1,10 +1,16 @@
 # video-creator
-A script to create a video given a folder with images and audio files. It uses FFMPEG.
+A script to create a video given a folder with images and audio files. It uses FFMPEG and NodeJS.
 
-# Configuration
+## Configuration
 Change config.json.
 
-# Run
+## Run
 ```
 node index.js
 ```
+
+## TODO
+- Add random zoom/pan effect for the pitctures
+- Add volume config
+- Add feature to use audio provided and mute input movies' audio
+- Add image/video composition. eg. subscribe button
